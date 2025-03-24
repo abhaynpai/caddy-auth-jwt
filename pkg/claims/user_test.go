@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/abhaynpaii/caddy-auth-jwt/pkg/backends"
-	jwterrors "github.com/abhaynpaii/caddy-auth-jwtt/pkg/errors"
+	"github.com/abhaynpai/caddy-auth-jwt/pkg/backends"
+	jwterrors "github.com/abhaynpai/caddy-auth-jwtt/pkg/errors"
 	jwtlib "github.com/dgrijalva/jwt-go"
 	"github.com/google/go-cmp/cmp"
 )

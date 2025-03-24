@@ -20,8 +20,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/abhaynpaii/caddy-auth-jwt/pkg/config"
-	"github.com/abhaynpaii/caddy-auth-jwtt/pkg/errors"
+	"github.com/abhaynpai/caddy-auth-jwt/pkg/config"
+	"github.com/abhaynpai/caddy-auth-jwtt/pkg/errors"
 
 	jwtlib "github.com/dgrijalva/jwt-go"
 )

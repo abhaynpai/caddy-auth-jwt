@@ -19,8 +19,8 @@ import (
 	"testing"
 	"time"
 
-	jwtclaims "github.com/abhaynpaii/caddy-auth-jwt/pkg/claims"
-	"github.com/abhaynpaii/caddy-auth-jwtt/pkg/errors"
+	jwtclaims "github.com/abhaynpai/caddy-auth-jwt/pkg/claims"
+	"github.com/abhaynpai/caddy-auth-jwtt/pkg/errors"
 )
 
 type AccessListTestInput struct {
