@@ -24,10 +24,10 @@ import (
 	"time"
 
 	jwtacl "github.com/abhaynpai/caddy-auth-jwt/pkg/acl"
-	jwtclaims "github.com/abhaynpai/caddy-auth-jwtt/pkg/claims"
-	jwtconfig "github.com/abhaynpai/caddy-auth-jwtt/pkg/config"
-	jwtgrantor "github.com/abhaynpai/caddy-auth-jwtt/pkg/grantor"
-	jwtvalidator "github.com/abhaynpai/caddy-auth-jwtt/pkg/validator"
+	jwtclaims "github.com/abhaynpai/caddy-auth-jwt/pkg/claims"
+	jwtconfig "github.com/abhaynpai/caddy-auth-jwt/pkg/config"
+	jwtgrantor "github.com/abhaynpai/caddy-auth-jwt/pkg/grantor"
+	jwtvalidator "github.com/abhaynpai/caddy-auth-jwt/pkg/validator"
 	"go.uber.org/zap"
 )
 

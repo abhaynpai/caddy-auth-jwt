@@ -26,8 +26,8 @@ import (
 	"github.com/caddyserver/caddy/v2/modules/caddyhttp/caddyauth"
 
 	jwtacl "github.com/abhaynpai/caddy-auth-jwt/pkg/acl"
-	jwtauth "github.com/abhaynpai/caddy-auth-jwtt/pkg/auth"
-	jwtconfig "github.com/abhaynpai/caddy-auth-jwtt/pkg/config"
+	jwtauth "github.com/abhaynpai/caddy-auth-jwt/pkg/auth"
+	jwtconfig "github.com/abhaynpai/caddy-auth-jwt/pkg/config"
 )
 
 func init() {

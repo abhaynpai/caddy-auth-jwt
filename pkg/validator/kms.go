@@ -24,7 +24,7 @@ import (
 	jwtlib "github.com/dgrijalva/jwt-go"
 	//"go.uber.org/zap"
 	jwtconfig "github.com/abhaynpai/caddy-auth-jwt/pkg/config"
-	jwterrors "github.com/abhaynpai/caddy-auth-jwtt/pkg/errors"
+	jwterrors "github.com/abhaynpai/caddy-auth-jwt/pkg/errors"
 )
 
 var defaultKeyID = "0"

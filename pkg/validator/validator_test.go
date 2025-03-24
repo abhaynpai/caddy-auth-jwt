@@ -24,8 +24,8 @@ import (
 	"time"
 
 	jwtacl "github.com/abhaynpai/caddy-auth-jwt/pkg/acl"
-	jwtconfig "github.com/abhaynpai/caddy-auth-jwtt/pkg/config"
-	jwterrors "github.com/abhaynpai/caddy-auth-jwtt/pkg/errors"
+	jwtconfig "github.com/abhaynpai/caddy-auth-jwt/pkg/config"
+	jwterrors "github.com/abhaynpai/caddy-auth-jwt/pkg/errors"
 	jwtlib "github.com/dgrijalva/jwt-go"
 )
 

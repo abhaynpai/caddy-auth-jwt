@@ -22,11 +22,11 @@ import (
 	"time"
 
 	jwtacl "github.com/abhaynpai/caddy-auth-jwt/pkg/acl"
-	jwtbackends "github.com/abhaynpai/caddy-auth-jwtt/pkg/backends"
-	jwtcache "github.com/abhaynpai/caddy-auth-jwtt/pkg/cache"
-	jwtclaims "github.com/abhaynpai/caddy-auth-jwtt/pkg/claims"
-	jwtconfig "github.com/abhaynpai/caddy-auth-jwtt/pkg/config"
-	jwterrors "github.com/abhaynpai/caddy-auth-jwtt/pkg/errors"
+	jwtbackends "github.com/abhaynpai/caddy-auth-jwt/pkg/backends"
+	jwtcache "github.com/abhaynpai/caddy-auth-jwt/pkg/cache"
+	jwtclaims "github.com/abhaynpai/caddy-auth-jwt/pkg/claims"
+	jwtconfig "github.com/abhaynpai/caddy-auth-jwt/pkg/config"
+	jwterrors "github.com/abhaynpai/caddy-auth-jwt/pkg/errors"
 	jwtlib "github.com/dgrijalva/jwt-go"
 )
 

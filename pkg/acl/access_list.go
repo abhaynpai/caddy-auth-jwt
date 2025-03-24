@@ -19,8 +19,8 @@ import (
 	"strings"
 
 	jwtclaims "github.com/abhaynpai/caddy-auth-jwt/pkg/claims"
-	jwtconfig "github.com/abhaynpai/caddy-auth-jwtt/pkg/config"
-	"github.com/abhaynpai/caddy-auth-jwtt/pkg/errors"
+	jwtconfig "github.com/abhaynpai/caddy-auth-jwt/pkg/config"
+	"github.com/abhaynpai/caddy-auth-jwt/pkg/errors"
 )
 
 var pathACLPatterns map[string]*regexp.Regexp

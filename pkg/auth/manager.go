@@ -21,9 +21,9 @@ import (
 	"sync"
 
 	jwtacl "github.com/abhaynpai/caddy-auth-jwt/pkg/acl"
-	jwtconfig "github.com/abhaynpai/caddy-auth-jwtt/pkg/config"
-	jwterrors "github.com/abhaynpai/caddy-auth-jwtt/pkg/errors"
-	jwtvalidator "github.com/abhaynpai/caddy-auth-jwtt/pkg/validator"
+	jwtconfig "github.com/abhaynpai/caddy-auth-jwt/pkg/config"
+	jwterrors "github.com/abhaynpai/caddy-auth-jwt/pkg/errors"
+	jwtvalidator "github.com/abhaynpai/caddy-auth-jwt/pkg/validator"
 	"go.uber.org/zap"
 )
 

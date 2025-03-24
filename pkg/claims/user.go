@@ -21,7 +21,7 @@ import (
 	"time"
 
 	"github.com/abhaynpai/caddy-auth-jwt/pkg/config"
-	"github.com/abhaynpai/caddy-auth-jwtt/pkg/errors"
+	"github.com/abhaynpai/caddy-auth-jwt/pkg/errors"
 
 	jwtlib "github.com/dgrijalva/jwt-go"
 )
